@@ -1,6 +1,4 @@
-# location-based-seo-strategy
-Real-world SEO experiment: city-specific landing pages for an Australian fitness equipment retailer — from zero to top rankings across Queensland
-📍 Location-Based SEO Strategy — Queensland, Australia
+Location-Based SEO Strategy — Queensland, Australia
 
 A real-world SEO experiment designed and executed for Mr. Treadmill, an Australian fitness equipment retailer based in Brisbane, Queensland. This repository documents the strategy, execution, and results of a city-specific landing page initiative to capture unaddressed local search demand across Queensland.
 
@@ -74,6 +72,27 @@ Ipswich
 Logan
 Caboolture
 Additional Queensland cities based on search volume data
+🤖 Impact on AI Search (GEO)
+
+The location-based SEO work did not only improve Google rankings. It also drove visibility in AI-powered search engines.
+
+An independent GEO test conducted on 31 July 2026 using a brand-new Claude account with zero prior history asked Claude to rank the Top 5 providers in Brisbane across 7 fitness equipment service categories. The results:
+
+Category	Mr Treadmill Position
+Renting a Treadmill	#1
+Buying a Treadmill (New)	#1
+Repairing a Treadmill	#1
+Servicing a Treadmill	#1
+Renting a Rowing Machine	#1
+Buying Second-Hand Equipment	#1
+Renting a Bicycle / Elliptical	#2
+
+Score: 6 out of 7 categories ranked #1 in AI search (data as of July 31, 2026)
+
+This confirms that well-optimized, city-specific content does not just rank on Google — it gets indexed and cited by LLMs as authoritative. The SEO work and the GEO visibility are directly connected.
+
+Full GEO monitoring methodology documented here: geo-monitoring-framework
+
 🛠️ Tools Used
 Google Search Console — performance tracking and query analysis
 Ahrefs — keyword research and competitor analysis
@@ -83,6 +102,9 @@ Screaming Frog — technical SEO audits
 👤 About
 
 Strategy designed and executed by Iván Luna — SEO & GEO Specialist at Lunar Projects
+
+LinkedIn: linkedin.com/in/ivan-luna-795a38187
+GitHub: github.com/iluna93
 
 LinkedIn: linkedin.com/in/ivan-luna-795a38187
 GitHub: github.com/iluna93
